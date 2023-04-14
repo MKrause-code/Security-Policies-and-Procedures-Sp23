@@ -1,4 +1,4 @@
-//package com.Java;
+//package com.Java; 
 
 	public class Dog extends Pet
 	{
